@@ -1,0 +1,22 @@
+/* src/App.css or src/styles.css */
+
+/* Set background color for the entire page */
+body {
+  background-color: #f0f0f0; /* Light gray background color */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  font-family: Arial, sans-serif; /* Set default font family */
+}
+
+/* Apply default styles to all cards */
+.card {
+  margin-bottom: 20px; /* Add space between cards */
+  border: 1px solid #ddd; /* Add border to cards */
+  border-radius: 5px; /* Round the corners of cards */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow effect to cards */
+}
+
+/* Style card titles */
+.card-title {
+  margin-bottom: 0; /* Remove margin below card titles */
+}
