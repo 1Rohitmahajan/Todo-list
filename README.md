@@ -1,6 +1,6 @@
 # Todo-list
 This application  showcase  of HTML, CSS, JavaScript, React components, hooks, and state management using Redux.
-# Simple React To-Do Application
+# Simple React Toto List Application
 
 This is a simple To-Do application built with ReactJS, Redux, and Bootstrap, allowing users to add, view, and delete tasks.
 
